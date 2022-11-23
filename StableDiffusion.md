@@ -24,8 +24,6 @@ The Australian government has authored a set of voluntary industry AI Ethics Pri
 * Contestability: When an AI system significantly impacts a person, community, group or environment, there should be a timely process to allow people to challenge the use or outcomes of the AI system.
 * Accountability: People responsible for the different phases of the AI system lifecycle should be identifiable and accountable for the outcomes of the AI systems, and human oversight of AI systems should be enabled.
 
-![image](https://user-images.githubusercontent.com/88033/203578827-16a2b565-e2c1-47c2-a842-1f87181d5aea.png)
-
 
 ## Observations / Definition
 
