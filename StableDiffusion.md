@@ -6,14 +6,14 @@
 
 The Australian government has authored a set of voluntary industry AI Ethics Principles available at https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles 
 
-### Suggested benefits of adopting these
+**Suggested benefits of adopting these**
 
 * build public trust in your product or organisation
 * drive consumer loyalty in your AI-enabled services
 * positively influence outcomes from AI
 * ensure all Australians benefit from this transformative technology.
 
-### "Principles at a glance"
+**"Principles at a glance"**
 
 * Human, societal and environmental wellbeing: AI systems should benefit individuals, society and the environment.
 * Human-centred values: AI systems should respect human rights, diversity, and the autonomy of individuals.
@@ -24,6 +24,7 @@ The Australian government has authored a set of voluntary industry AI Ethics Pri
 * Contestability: When an AI system significantly impacts a person, community, group or environment, there should be a timely process to allow people to challenge the use or outcomes of the AI system.
 * Accountability: People responsible for the different phases of the AI system lifecycle should be identifiable and accountable for the outcomes of the AI systems, and human oversight of AI systems should be enabled.
 
+![image](https://user-images.githubusercontent.com/88033/203578827-16a2b565-e2c1-47c2-a842-1f87181d5aea.png)
 
 
 ## Observations / Definition
